@@ -7,3 +7,4 @@ langchain_ollama==0.2.3
 ollama==0.4.7
 PyGithub==2.6.0
 streamlit==1.41.1
+chromadb
